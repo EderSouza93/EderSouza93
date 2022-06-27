@@ -1,10 +1,13 @@
-
 ### Olá! Eu sou o Eder Souza 🎮
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ederaldo-souza-ribeiro-b518b773/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](hhttps://www.instagram.com/edersouza93/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/edersouza93/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ederaldo.souza93@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ederaldo.souza.773/)
 
 ![EderSouza93 GitHub stats](https://github-readme-stats.vercel.app/api?username=EderSouza93&show_icons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EderSouza93&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que eu estou aprendendo 
 
