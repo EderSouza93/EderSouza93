@@ -5,7 +5,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ederaldo.souza93@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ederaldo.souza.773/)
 
-![EderSouza93 GitHub stats](https://github-readme-stats.vercel.app/api?username=EderSouza93&show_icons=true&theme=dracula)
 
 <h2 align="left">Hi 👋! My name is Eder and I'm a programming student and currently studying frontend, from Brazil!</h2>
 
@@ -32,10 +31,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
 </div>
-
-###
-
-//<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />//
 
 ###
 
