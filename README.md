@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- JavaScript Full Stack Aspirant<br>- Bachalor's degree in business administration<br>- Technology and Process Inovation Department @Cohab Premium</p>
+<p align="left">- JavaScript Full Stack <br>- Bachalor's degree in business administration<br>- Software Engineer (DNC)<br>- Technology and Process Inovation Department @Cohab Premium</p>
 
 ###
 
