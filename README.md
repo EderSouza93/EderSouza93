@@ -99,8 +99,8 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=3ap6vec2i3nipbbmgecgwnxhu&unique={true|1|on|yes})">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=!%5BAlt%20text%5D(https://spotify-recently-played-readme.vercel.app/api?user=3ap6vec2i3nipbbmgecgwnxhu&unique=%7Btrue%7C1%7Con%7Cyes%7D)&count=5&unique=true" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/user/3ap6vec2i3nipbbmgecgwnxhu">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=3ap6vec2i3nipbbmgecgwnxhu&count=2&unique=true" alt="Spotify recently played" />
   </a>
 </div>
 
