@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm a Systems Development Analyst at Cohab Premium Imobiliária and an aspiring Full Stack Developer from Brazil.<br><br>- 🔭 I’m working as a Systems Development Analyst, focusing on integrating AI into customer service, managing solutions with Bitrix24 and KSI, training agents, and developing innovative projects, including a collaborative application.<br>- 📚 I'm currently studying Software Engineering at DNC to enhance my Full Stack development skills and bring impactful innovations to the real estate sector.<br>- ⚡ In my free time, I enjoy singing, playing video games, and experimenting with musical instruments.<br><br>With a strong background in administration and a Lean Six Sigma Yellow Belt certification, I combine technical expertise and process optimization to drive efficiency and innovation in my projects.</p>
+<p align="left">I'm a Systems Development Analyst at Cohab Premium Real State and an aspiring Full Stack Developer from Brazil.<br><br>- 🔭 I’m working as a Systems Development Analyst, focusing on integrating AI into customer service, managing solutions with Bitrix24 and KSI, training agents, and developing innovative projects, including a collaborative application.<br>- 📚 I'm currently studying Software Engineering at DNC to enhance my Full Stack development skills and bring impactful innovations to the real estate sector.<br>- ⚡ In my free time, I enjoy singing, playing video games, and experimenting with musical instruments.<br><br>With a strong background in administration and a Lean Six Sigma Yellow Belt certification, I combine technical expertise and process optimization to drive efficiency and innovation in my projects.</p>
 
 ###
 
