@@ -37,7 +37,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
@@ -75,6 +75,10 @@
   <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
+  <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo"  />
+  <img src="https://skillicons.dev/icons?i=pnpm" height="40" alt="pnpm logo"  />
+  <img src="https://skillicons.dev/icons?i=styledcomponents" height="40" alt="styledcomponents logo"  />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo"  />
 </div>
 
 ###
